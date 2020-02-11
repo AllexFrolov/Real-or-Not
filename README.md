@@ -18,6 +18,6 @@ In this competition, you’re challenged to build a machine learning model that 
 
 Disclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive.
 
-<img src='/image/twetscrinshot.png' width=300>
+<img src='/image/tweet_screenshot.png' width=300>
 Acknowledgments
 This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website here.
